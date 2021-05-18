@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1621297012962" clover="3.2.0">
+  <project timestamp="1621297012962" name="All files">
+    <metrics statements="21" coveredstatements="20" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="10" elements="32" coveredelements="30" complexity="0" loc="21" ncloc="21" packages="1" files="10" classes="10"/>
+    <file name="anagram.js" path="E:\Code_X\Level3\JestJS\JSfiles\anagram.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+    </file>
+    <file name="arraySort.js" path="E:\Code_X\Level3\JestJS\JSfiles\arraySort.js">
+      <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="cloneArray.js" path="E:\Code_X\Level3\JestJS\JSfiles\cloneArray.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="divide.js" path="E:\Code_X\Level3\JestJS\JSfiles\divide.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+    <file name="helloWorld.js" path="E:\Code_X\Level3\JestJS\JSfiles\helloWorld.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+    <file name="multiply.js" path="E:\Code_X\Level3\JestJS\JSfiles\multiply.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+    <file name="numberToPower.js" path="E:\Code_X\Level3\JestJS\JSfiles\numberToPower.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="reverseString.js" path="E:\Code_X\Level3\JestJS\JSfiles\reverseString.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="subtract.js" path="E:\Code_X\Level3\JestJS\JSfiles\subtract.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+    <file name="sum.js" path="E:\Code_X\Level3\JestJS\JSfiles\sum.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

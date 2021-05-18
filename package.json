@@ -4,7 +4,7 @@
   "description": "JestJS_Practice",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage --watchAll"
   },
   "author": "Steve Larsen",
   "license": "ISC",
