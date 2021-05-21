@@ -5,7 +5,7 @@ describe("sort array", () => {
     // arrange
     let unsorted_array = [10, 7, 2, 3];
     // act
-    let sorted_array = unsorted_array.sort;
+    let sorted_array = arraySort(unsorted_array);
     // assert
     expect(sorted_array);
   });
